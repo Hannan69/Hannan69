@@ -1,5 +1,7 @@
 # 💫 About Me:
-:<br><br>👋 Hey there! I'm Hannan!<br>🚀 Currently working on: Next.js, Web + AI integrations<br>🧠 Learning: AI Fundamentals<br>🤖 FYP: Building a Robotics-based project<br><br>💡 Ask Me About:<br>🔹 Data Structures & Algorithms (DSA)<br>🔹 Object-Oriented Programming (OOP)<br>🔹 Databases (SQL, MongoDB)<br>🔹 C / C++<br>🔹 HTML, CSS, JavaScript<br>🔹 MERN Stack & Next.js<br><br>✨ Fun Fact:<br>I'm deeply passionate about Robotics and blending AI with Web technologies. My FYP revolves around building an AI-powered SLAM Robot! 🚀🤖<br><br>Let's connect and build something awesome! 😃<br><br>
+                                                                 
+
+<br><br>👋 Hey there! I'm Hannan! **Computer Science senior @FAST-NUCES Lahore** <br>🚀 Currently working on: Next.js, Web + AI integrations<br>🧠 Learning: AI Fundamentals<br>🤖 FYP: Building a Robotics-based project<br><br>💡 Ask Me About:<br>🔹 Data Structures & Algorithms (DSA)<br>🔹 Object-Oriented Programming (OOP)<br>🔹 Databases (SQL, MongoDB)<br>🔹 C / C++<br>🔹 HTML, CSS, JavaScript<br>🔹 MERN Stack & Next.js<br><br>✨ Fun Fact:<br>I'm deeply passionate about Robotics and blending AI with Web technologies. My FYP revolves around building an AI-powered SLAM Robot! 🚀🤖<br><br>Let's connect and build something awesome! 😃<br><br>
 
 
 ## 🌐 Socials:
